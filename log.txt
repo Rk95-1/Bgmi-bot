@@ -1,0 +1,48 @@
+UserID: 6158687704 | Time: 2026-03-31 23:44:51.970606 | Command: /bgmi | Target: 1.1.1.1 | Port: 80 | Time: 60
+Username: @P77_earn_agent
+Target: 1.1.1.1
+Port: 80
+Time: 60
+
+UserID: 6158687704 | Time: 2026-04-01 00:15:33.499362 | Command: /bgmi | Target: 20.198.77.31 | Port: 15014 | Time: 180
+Username: @P77_earn_agent
+Target: 20.198.77.31
+Port: 15014
+Time: 180
+
+UserID: 6158687704 | Time: 2026-04-01 00:17:55.874903 | Command: /bgmi | Target: 20.212.22.90 | Port: 17500 | Time: 180
+Username: @P77_earn_agent
+Target: 20.212.22.90
+Port: 17500
+Time: 180
+
+UserID: 6158687704 | Time: 2026-04-01 00:18:45.198478 | Command: /bgmi | Target: 20.212.22.90 | Port: 17500 | Time: 180
+Username: @P77_earn_agent
+Target: 20.212.22.90
+Port: 17500
+Time: 180
+
+UserID: 6158687704 | Time: 2026-04-01 00:20:14.448327 | Command: /bgmi | Target: 20.43.191.78 | Port: 443 | Time: 180
+Username: @P77_earn_agent
+Target: 20.43.191.78
+Port: 443
+Time: 180
+
+UserID: 6158687704 | Time: 2026-04-01 00:21:54.030945 | Command: /bgmi | Target: 20.198.77.31 | Port: 15014 | Time: 100
+Username: @P77_earn_agent
+Target: 20.198.77.31
+Port: 15014
+Time: 100
+
+UserID: 6158687704 | Time: 2026-04-01 00:23:57.120751 | Command: /bgmi | Target: 34.0.12.128 | Port: 10291 | Time: 180
+Username: @P77_earn_agent
+Target: 34.0.12.128
+Port: 10291
+Time: 180
+
+UserID: 6158687704 | Time: 2026-04-01 00:25:06.634590 | Command: /bgmi | Target: 20.212.22.90 | Port: 17500 | Time: 120
+Username: @P77_earn_agent
+Target: 20.212.22.90
+Port: 17500
+Time: 120
+
